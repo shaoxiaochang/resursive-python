@@ -1,2 +1,3 @@
 # resursive-python
-[Google]: http://google.com/
+
+[參考]: https://stackabuse.com/understanding-recursive-functions-with-python/
